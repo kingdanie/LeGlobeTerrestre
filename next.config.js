@@ -1,12 +1,12 @@
 const path = require('path')
 
 
-const allowedImageWordPressDomain ="https://api.holivoo.com";
+const allowedImageWordPressDomain ="https://api.leglobeterrestre.com";
 module.exports = {
   images: {
     domains: [
       "locahost", 
-      "api.holivoo.com", 
+      "api.leglobeterrestre.com", 
       allowedImageWordPressDomain, 
       "via.placeholder.com"
     ],
