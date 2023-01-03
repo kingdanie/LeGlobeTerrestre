@@ -48,7 +48,7 @@ export default function SingaporeHome({ data }) {
             <div className="my-3 px-3 w-full overflow-hidden md:w-3/4">
             <div className="mb-8">
                 <LeftAccentedH2Text
-                  text="Holivoo Singapore"
+                  text="Le Globe Terrestre Singapore"
                   isCapitalize={true}
                 />
             </div>

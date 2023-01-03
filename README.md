@@ -1,5 +1,5 @@
-# Holivoo Blog 
-The code base for the holivoo blog site was built on the [Next.js](https://nextjs.org/) and  Wordpress (serving as the content management system). In essence this is a JAMSTACK arrangement. 
+# Le Globe Terrestre Blog 
+The code base for the Le Globe Terrestre blog site was built on the [Next.js](https://nextjs.org/) and  Wordpress (serving as the content management system). In essence this is a JAMSTACK arrangement. 
 
 # Pre-requisites
 For seemless development and deployment of the project, node 14 is required.  Using higher versions of node will likely result in the code failing to compile as the dependence postcss strangely would not run on these versions. 

@@ -31,8 +31,8 @@ function MyApp({ Component, pageProps }) {
           openGraph={{
             type: "website",
             locale: "en_IE",
-            url: "https://holivoo.com/",
-            site_name: "Holivoo Ekspres",
+            url: "https://LeGlobeTerrestreivoo.com/",
+            site_name: "Le Globe Terrestre Ekspres",
           }}
         />
         <GoogleTagManager>
