@@ -208,7 +208,7 @@ export async function getStaticProps() {
       singapore: singapore || null,
       seychelles: seychelles || null,
       "saudi-arabia": saudiArabia || null,
-      uk: uk || null,
+      UK: uk || null,
     },
     menus: {
       header: header || null,
