@@ -152,7 +152,7 @@ export async function getStaticProps() {
       drinks: drink || null,
       eat: eat || null,
       tips: tips || null,
-      'Tours-  And Events': toursAndEvents || null,
+      'Tours & Events': toursAndEvents || null,
     },
     menus: {
       header: header || null,
