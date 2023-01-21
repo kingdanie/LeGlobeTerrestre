@@ -65,7 +65,7 @@ export default function PostLayout({
                   title={title || ""}
                 />
 
-                <VerticalAddSpot />
+                {/* <VerticalAddSpot /> */}
               </div>
             </div>
           </div>

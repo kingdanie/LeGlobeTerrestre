@@ -66,7 +66,7 @@ export default function DPostLayout({
                   title={title || ""}
                 />
 
-                <VerticalAddSpot />
+                {/* <VerticalAddSpot /> */}
               </div>
             </div>
           </div>
