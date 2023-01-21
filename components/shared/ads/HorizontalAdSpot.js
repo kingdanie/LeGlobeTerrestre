@@ -15,7 +15,6 @@ export default function HorizontalAdSpot() {
       className="adsbygoogle"
       style={{ display: "block" }}
       data-ad-client="ca-pub-1992640305654571"
-      data-ad-slot="8501570655"
       data-ad-format="auto"
       data-full-width-responsive="true"
     />

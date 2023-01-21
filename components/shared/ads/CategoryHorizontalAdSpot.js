@@ -11,9 +11,7 @@ export default function CategoryHorizontalAdSpot() {
       className="adsbygoogle"
       style={{ display: "block" }}
       data-ad-format="fluid"
-      data-ad-layout-key="-c9-2d+1s-2c+5a"
       data-ad-client="ca-pub-1992640305654571"
-      data-ad-slot="4046308567"
     />
   );
 }

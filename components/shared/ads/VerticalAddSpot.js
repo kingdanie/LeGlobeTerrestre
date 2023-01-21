@@ -14,7 +14,6 @@ export default function VerticalAddSpot() {
       className="adsbygoogle"
       style={{ display: "block" ,height: "calc(100vh - 200px)", }}
       data-ad-client="ca-pub-1992640305654571"
-      data-ad-slot="1042622960"
       data-full-width-responsive="true"
     />
   );
