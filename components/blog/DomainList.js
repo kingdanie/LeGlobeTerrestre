@@ -8,7 +8,7 @@ export default function DomainList({ name, postList, showCategory }) {
   return (
     <>
       <div className="-mb-8">
-        <Link prefetch={false} href={name}>
+      <Link prefetch={false} href={name.toLowerCase()}>
           <a>
             <LeftAccentedH2Text text={name} isCapitalize />
           </a>
