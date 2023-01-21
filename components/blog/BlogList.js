@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import LeftAccentedH2Text from "../shared/LeftAccentedH2Text";
 import BlogListItem from "./BlogListItem";
+import NextLink from "next/link";
 
 export default function BlogList({ postList, showCategory }) {
 
@@ -9,7 +10,14 @@ export default function BlogList({ postList, showCategory }) {
   return (
     <>
       <div className="-mb-8">
-        <LeftAccentedH2Text text="Latest" />
+      <NextLink
+            prefetch={false}
+            href="category/all"
+          >
+            <a>
+              <LeftAccentedH2Text text="Latest" />
+            </a>
+          </NextLink>
       </div>
 
       <div className="flex flex-wrap -mx-3 overflow-hidden ">
